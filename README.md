@@ -1,3 +1,1 @@
-# Elections
-Created to do analisys with election data 
-Do not use the code unitl been published
+Created to analyze with election data here, I'm trying to be able to create a personal perception about the EUAs elections. 
